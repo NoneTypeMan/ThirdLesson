@@ -1,0 +1,37 @@
+.login-pass {
+    margin-right: 650px;
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.pass1 {
+    margin-left: 40px;
+}
+
+.text {
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 40px;
+}
+
+.text1 {
+    margin-left: 50px;
+
+}
+
+.lab-check {
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+}
+
+.lab-check1 {
+    justify-content: center;
+    display: flex;
+}
+
+.submit {
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
